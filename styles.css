@@ -11,7 +11,7 @@ body{min-height:100%;}
 #navi5{color: #1E90FF;}
 #navi6{color:#0000CD;}
 #navi,#navi2,#navi3,#navi4,#navi5,#navi6{font-family: 'Comfortaa',cursive;font-weight: bold;}
-.middle{margin: 0;padding-bottom: 30px;background-color:#D8D8D8;}
+.middle{margin: 0;padding-bottom: 20px;background-color:#D8D8D8;}
 h3{font-size: 30px;color: white;text-align: center;font-family: 'Comfortaa',cursive;padding-top: 30px;padding-bottom: 15px;}
 h6{font-size: 20px;color: white;text-align: center;font-family: 'Comfortaa',cursive;padding-top: 7.5px;}
 h1{text-align: center;}
