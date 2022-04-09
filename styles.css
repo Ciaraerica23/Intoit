@@ -1,0 +1,45 @@
+.top{width: 100%;height: 500px;background-image: url("chakra.png");background-repeat: no-repeat;background-size: cover;margin: 0;padding: 0;}
+hr{border-top: 2px solid white;}
+body{margin: 0;padding: 0;background-color:#D8D8D8;}
+.navbar{background-color: #343434;}
+#search{border: 1px solid #FF00FF;color: #FF00FF;}
+#navi{color:red;}
+#navi2{color: orange;}
+#navi3{color: yellow;}
+#navi4{color: #32CD32;}
+#navi5{color: #1E90FF;}
+#navi6{color:#0000CD;}
+#navi,#navi2,#navi3,#navi4,#navi5,#navi6{font-family: 'Comfortaa',cursive;font-weight: bold;}
+
+h3{font-size: 30px;color: white;text-align: center;font-family: 'Comfortaa',cursive;padding-top: 30px;padding-bottom: 15px;}
+
+h1{text-align: center;}
+h2{padding-top: 50px;}
+h2,h4,p{color:#343434;font-family: 'Comfortaa',cursive;text-align: center;font-weight: bolder;}
+p{margin-left : 350px;margin-right: 350px;padding-bottom: 40px;}
+.fl{color: white;animation: 4s slide-right; font-family:'Comfortaa', cursive;padding-top: 50px;}
+.sl{color:white;animation: 4s slide-left;font-family: 'Comfortaa',cursive;}
+@keyframes slide-left{
+    from {
+       margin-right: -2000px;
+    }
+
+    to {
+       margin-right: 0%;
+    }
+  }
+
+
+@keyframes slide-right{
+  from{
+    margin-left: -2000px;
+  }
+
+to {
+  margin-left: : 0%;
+}
+}
+#quiz{align-self: center;background-color: black;border-radius: 65px;height: 450px;width: 400px;margin-bottom: 40px;}
+.quiz{font-family: 'Comfortaa',cursive;padding: 5px 10px;font-size: 20px;display: flex;justify-content: center;margin: auto;position: relative;top:130px;border-radius: 5px;border: 2px solid;border-color: white;background-color: black;color:  white;}
+footer{background-color:#343434;padding: 10px 0;}
+.foot{color: black;padding: 0;margin: 0;font-family: 'Comfortaa';font-weight: normal;}
