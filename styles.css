@@ -1,6 +1,6 @@
 .top{width: 100%;height: 500px;background-image: url("chakra.png");background-repeat: no-repeat;background-size: cover;margin: 0;padding: 0;}
 hr{border-top: 2px solid white;}
-body{height:100%;}
+body{min-height:100%;}
 
 .navbar{background-color: #343434;}
 #search{border: 1px solid #FF00FF;color: #FF00FF;}
