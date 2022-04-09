@@ -42,5 +42,5 @@ to {
 #quiz{align-self: center;background-color: black;border-radius: 65px;height: 550px;width: 400px;margin-bottom: 40px;}
 .quiz{font-family: 'Comfortaa',cursive;padding: 5px 10px;font-size: 20px;display: flex;justify-content: center;margin: auto;position: relative;top:130px;border-radius: 5px;border: 2px solid;border-color: white;background-color: black;color:  white;}
 footer{background-color:#343434;text-align: center;color: white;padding: 0;margin: 0;}
-.f1{padding-top: 30px;font-weight: lighter;font-size: 15px;margin: 0;}
-.f2{padding-bottom: 10px;font-weight: lighter;font-size: 15px;margin: 0;}
+.f1{padding-top: 25px;font-weight: lighter;font-size: 15px;margin: 0;}
+.f2{padding-bottom: 15px;font-weight: lighter;font-size: 15px;margin: 0;}
