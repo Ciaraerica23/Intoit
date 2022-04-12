@@ -49,5 +49,5 @@ footer{background-color:#343434;text-align: center;color: white;padding: 0;margi
 .f1{padding-top: 25px;font-weight: lighter;font-size: 15px;margin: 0;}
 .f2{padding-bottom: 15px;font-weight: lighter;font-size: 15px;margin: 0;}
 @media only screen and (max-device-width:480px){.navbar{height:60px;}
-#navi,#navi2,#navi3,#navi4,#navi5,#navi6{font-size: 25px;}.top{height:600px;}h2,h4{width: 400px;}p{width:200px;margin:auto;}
+  #navi,#navi2,#navi3,#navi4,#navi5,#navi6{font-size: 25px;}.top{height:600px;}body{max-width:480px;}
 }
