@@ -46,10 +46,11 @@ to {
 #quiz{align-self: center;background-color: black;border-radius: 65px;height: 450px;width: 400px;margin-bottom: 40px;}
 .quiz{font-family: 'Comfortaa',cursive;padding: 5px 10px;font-size: 20px;display: flex;justify-content: center;margin: auto;position: relative;top:100px;border-radius: 5px;border: 2px solid;border-color: white;background-color: black;color:  white;}
 footer{background-color:#343434;text-align: center;color: white;padding: 0;margin: 0;}
-.f1{padding-top: 25px;font-weight: lighter;font-size: 15px;margin: 0;}
-.f2{padding-bottom: 15px;font-weight: lighter;font-size: 15px;margin: 0;}
+.f1{padding-top: 30px;font-weight: lighter;font-size: 15px;margin: 0;}
+.f2{padding-bottom: 25px;font-weight: lighter;font-size: 15px;margin: 0;}
 @media only screen and (max-device-width:480px){.navbar{height:60px;}
-  #navi,#navi2,#navi3,#navi4,#navi5,#navi6{font-size: 25px;background-color:#343434;}.top{height:500px;background-size:cover;width:100%;}p{overflow-wrap:normal;margin:auto;padding:10px 5px;}
+#navi,#navi2,#navi3,#navi4,#navi5,#navi6{font-size: 25px;}.top{background-image: url("chakra2.png");height:600px;}h2,h4{width: 400px;}p{width:200px;text-align: center;}
+
 @keyframes slide-left{
     from {
        margin-right: -480px;
